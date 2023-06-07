@@ -2,5 +2,5 @@
 void main()
 {
     int a=1, b=2;
-    printf("diff=%d", a-b);
+    printf("diff is =%d", a-b);
 }
