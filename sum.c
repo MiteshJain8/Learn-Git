@@ -2,5 +2,5 @@
 void main()
 {
     int a=1, b=2;
-    printf("sum=%d", a+b);
+    printf("sum is =%d", a+b);
 }
